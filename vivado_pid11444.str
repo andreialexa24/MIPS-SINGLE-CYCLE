@@ -1,0 +1,135 @@
+/*
+
+Vivado v2016.4 (64-bit)
+SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+Process ID: 11444
+
+Current time: 	5/25/22 2:24:33 PM EEST
+Time zone: 	Eastern European Time (Europe/Athens)
+
+OS: Windows 10
+Version: 10.0
+Architecture: amd64
+Available processors (cores): 12
+
+Screen size: 1920x1080
+Screen resolution (DPI): 120
+Available screens: 1
+Default font: family=Tahoma,name=Tahoma,style=plain,size=13
+
+Java version: 	1.8.0_66 64-bit
+Java home: 	C:/Xilinx/Vivado/2016.4/tps/win64/jre
+
+User name: 	MSI
+User home directory: C:/Users/MSI
+User working directory: C:/Users/MSI/Documents/Semestrul 2 anul 2/AC/mips ciclu unic final ALEXA
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI base root directory: C:/Xilinx/Vivado
+RDI data directory: C:/Xilinx/Vivado/2016.4/data
+RDI bin directory: C:/Xilinx/Vivado/2016.4/bin
+
+Vivado preferences path: C:/Users/MSI/AppData/Roaming/Xilinx/Vivado/2016.4/vivado.ini
+Vivado layouts directory: C:/Users/MSI/AppData/Roaming/Xilinx/Vivado/2016.4/layouts
+
+GUI allocated memory:	199 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 533 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bt:g (cd:JFrame):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\MSI\Documents\Semestrul 2 anul 2\AC\mips ciclu unic final ALEXA\mips ciclu unic final ALEXA.xpr. Version: Vivado v2016.4 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// Tcl Message: open_project {C:/Users/MSI/Documents/Semestrul 2 anul 2/AC/mips ciclu unic final ALEXA/mips ciclu unic final ALEXA.xpr} 
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_FAILED
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 39 MB (+38858kb) [00:00:04]
+// [Engine Memory]: 429 MB (+297933kb) [00:00:04]
+// Tcl Message: open_project {C:/Users/MSI/Documents/Semestrul 2 anul 2/AC/mips ciclu unic final ALEXA/mips ciclu unic final ALEXA.xpr} 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 461 MB (+11778kb) [00:00:05]
+// [GUI Memory]: 53 MB (+12617kb) [00:00:05]
+// [Engine Memory]: 486 MB (+2049kb) [00:00:05]
+// [Engine Memory]: 520 MB (+9734kb) [00:00:06]
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.4/data/ip'. 
+// Project name: mips ciclu unic final ALEXA; location: C:/Users/MSI/Documents/Semestrul 2 anul 2/AC/mips ciclu unic final ALEXA; part: xc7a35tcpg236-1
+dismissDialog("Open Project"); // bt:g (cd:JFrame)
+// HMemoryUtils.trashcanNow. Engine heap size: 535 MB. GUI used memory: 35 MB. Current time: 5/25/22 2:24:34 PM EEST
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, lab7_4 - Behavioral (lab7_4.vhd)]", 1); // y:i (D:JPanel, cd:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, lab7_4 - Behavioral (lab7_4.vhd)]", 1, true); // y:i (D:JPanel, cd:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, lab7_4 - Behavioral (lab7_4.vhd), inst_IF - IFetch - Behavioral (IFetch.vhd)]", 4, false); // y:i (D:JPanel, cd:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, lab7_4 - Behavioral (lab7_4.vhd), inst_IF - IFetch - Behavioral (IFetch.vhd)]", 4, false, false, false, false, false, true); // y:i (D:JPanel, cd:JFrame) - Double Click
+// [GUI Memory]: 57 MB (+696kb) [00:00:14]
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, lab7_4 - Behavioral (lab7_4.vhd), display - SSD - Behavioral (SSD.vhd)]", 9, false); // y:i (D:JPanel, cd:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, lab7_4 - Behavioral (lab7_4.vhd)]", 1, true); // y:i (D:JPanel, cd:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, lab7_4 - Behavioral (lab7_4.vhd)]", 1, true, false, false, false, false, true); // y:i (D:JPanel, cd:JFrame) - Double Click - Node
+// Elapsed time: 21 seconds
+selectCodeEditor("lab7_4.vhd", 356, 371); // bF:I (JPanel:JComponent, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, lab7_4 - Behavioral (lab7_4.vhd)]", 1); // y:i (D:JPanel, cd:JFrame)
+selectCodeEditor("lab7_4.vhd", 67, 175); // bF:I (JPanel:JComponent, cd:JFrame)
+// [GUI Memory]: 60 MB (+289kb) [00:00:53]
+selectCodeEditor("lab7_4.vhd", 57, 61); // bF:I (JPanel:JComponent, cd:JFrame)
+selectCodeEditor("lab7_4.vhd", 57, 61, false, false, false, false, true); // bF:I (JPanel:JComponent, cd:JFrame) - Double Click
+selectCodeEditor("lab7_4.vhd", 230, 215); // bF:I (JPanel:JComponent, cd:JFrame)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_UPDATE_GRAPH
+// [GUI Memory]: 64 MB (+759kb) [00:01:18]
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// [GUI Memory]: 70 MB (+3295kb) [00:01:18]
+// Tcl Message: update_compile_order -fileset sources_1 
+// Tcl Message: update_compile_order -fileset sim_1 
+// Elapsed time: 16 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, test_env - Behavioral (lab7_4.vhd)]", 1); // y:i (D:JPanel, cd:JFrame)
+// TclEventType: DG_UPDATE_GRAPH
+// Elapsed time: 15 seconds
+selectCodeEditor("lab7_4.vhd", 361, 171, false, false, false, true, false); // bF:I (JPanel:JComponent, cd:JFrame) - Popup Trigger
+selectCodeEditor("lab7_4.vhd", 306, 138); // bF:I (JPanel:JComponent, cd:JFrame)
+selectButton(PAResourceCommand.PACommandNames_RUN_IMPLEMENTATION, "run_implementation"); // y:JideButton (g:CommandBar, cd:JFrame)
+// Run Command: PAResourceCommand.PACommandNames_RUN_IMPLEMENTATION
+// bt:g (cd:JFrame):  Resetting Runs : addNotify
+// TclEventType: RUN_MODIFY
+// [GUI Memory]: 74 MB (+402kb) [00:01:43]
+// TclEventType: RUN_MODIFY
+// TclEventType: RUN_RESET
+// TclEventType: RUN_MODIFY
+// Tcl Message: reset_run synth_1 
+// bt:g (cd:JFrame):  Starting Design Runs : addNotify
+// TclEventType: RUN_LAUNCH
+// TclEventType: RUN_MODIFY
+// Tcl Message: launch_runs impl_1 -jobs 6 
+// Tcl Message: [Wed May 25 14:26:11 2022] Launched synth_1... Run output will be captured here: C:/Users/MSI/Documents/Semestrul 2 anul 2/AC/mips ciclu unic final ALEXA/mips ciclu unic final ALEXA.runs/synth_1/runme.log [Wed May 25 14:26:11 2022] Launched impl_1... Run output will be captured here: C:/Users/MSI/Documents/Semestrul 2 anul 2/AC/mips ciclu unic final ALEXA/mips ciclu unic final ALEXA.runs/impl_1/runme.log 
+// [Engine Memory]: 549 MB (+3507kb) [00:01:45]
+// [GUI Memory]: 79 MB (+939kb) [00:01:45]
+dismissDialog("Starting Design Runs"); // bt:g (cd:JFrame)
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STEP_COMPLETED
+// HMemoryUtils.trashcanNow. Engine heap size: 558 MB. GUI used memory: 39 MB. Current time: 5/25/22 2:27:24 PM EEST
+// TclEventType: RUN_COMPLETED
+// ah:y (cd:JFrame): Implementation Completed: addNotify
+// Elapsed time: 112 seconds
+dismissDialog("Implementation Completed"); // ah:y (cd:JFrame)
